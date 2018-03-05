@@ -1,6 +1,6 @@
 # How-to-Assemble-Toolbox
 
-![preview](https://imgur.com/a/SJNRE)
+![preview](https://i.imgur.com/3gd5T7J.png)
 
 ## Introduction
 A simple ADV game in console with assembly language. Detail report and presentation is in [group_39.pdf](group_39.pdf) (Traditional Chinese)
